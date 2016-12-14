@@ -1,0 +1,24 @@
+Reference: http://www.serebiiforums.com/showthread.php?283948-Pok%E9mon-Aqua-Blue
+
+G - Grass Tile
+X - Poke Grass
+
+house
+! - red left roof border
+@ - red roof
+# - red roof border bottom
+$ - red roof bottom
+% - bottom right house wall
+^ - bottom left house wall
+& - house door
+* - house right window
+( - house left window
+
+
+
+QUICK OBJECTS
+
+Simple house: 
+! @ @ @ @
+# $ $ $ $
+^ & ( * %

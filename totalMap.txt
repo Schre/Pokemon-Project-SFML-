@@ -1,0 +1,21 @@
+t t t t t t t t t t t t t t t t t t t t  t t t t t t t t t t t t t t t t t t t t
+T T T T T T T T T T T T T T T T T T T T	 T T T T T T T T T T T T T T T T T T T T
+t t G G G G G G G G G G G G G G G G G G  G G G G G G G G G G G G G G G G G G G t
+T T G G G G G G G ! @ @ @ @ G G G G G G  G G G G G G G G G ! @ @ @ @ G G G G G T
+t t G G G G G G G # $ $ $ $ G G G G G t  t t G G G G G G G # $ $ $ $ G G G G G t
+T T G G G G G G G ^ & ( * % G G G G G T  T T G G G G G G G ^ & ( * % G G G G G T
+t t G G G G G G G G G G G G G G G G G t  t t G G G G G G G G G G G G G G G G G t
+T T G X X X X G G G G G G G G G G G G T  T T G G G G G G G G G G G G G G G G G T
+t t G X X X X X G G G G G G G G G G G t  t t G G G G G G G G G G G G G G G G G t
+T T G X X X X X G G G G G G G G G G G T  T T G G G G G G G ! @ @ @ @ G G G G G T
+t t G X X X X G G G G G G G G G G G G t  t t G G G G G G G # $ $ $ $ G G G G G t
+T T G G G X G G G G G G G G G G G G G T  T T G G G G G G G ^ & ( * % G G G G G T
+t t G G G G G G G G G G G G G G G G G t  t t G G G G G G G G G G G G G G G G G t
+T T G G G G G G G G G G G G G G G G G T  T T G G G G G G G G G G G G G G G G G T
+t t G G G G G G G G G G G G G G G G G t  t t G G G G G G G G G G G G G G G G G t
+T T G G G G G G G G G G G G G G G G G T  T T G G G G G G G G G G G G G G G G G T
+t t G G G G G G G G G G G G G G G G G t  t t G G G G G G G G G G G G G G G G G t
+T T G G G G G G G G G G G G G G G G G T  T T G G G G G G G G G G G G G G G G G T
+t t t t t t t t t t t t t t t t t t t t  t t t t t t t t t t t t t t t t t t t t
+T T T T T T T T T T T T T T T T T T T T  T T T T T T T T T T T T T T T T T T T T
+
